@@ -1,6 +1,6 @@
 
 
-User-agent: */
-Disallow: https://vorkyt.github.io/images/
-Disallow: https://vorkyt.github.io/admin/
+User-agent: *
+Disallow: /https://vorkyt.github.io/images/
+Disallow: /https://vorkyt.github.io/admin/
 Sitemap: https://vorkyt.github.io/sitemap.xml
