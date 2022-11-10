@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+	<loc>https://vorkyt.github.io/</loc>
+	<lastmod>2022-11-10T20:30:40+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://vorkyt.github.io/index.html</loc>
+	<lastmod>2022-11-10T20:30:40+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://vorkyt.github.io/images/nav-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://vorkyt.github.io/images/border.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://vorkyt.github.io/images/leaf.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://vorkyt.github.io/images/services-bg.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://vorkyt.github.io/images/blog-1.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://vorkyt.github.io/images/blog-2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://vorkyt.github.io/images/blog-3.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://vorkyt.github.io/images/section-4-bg.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://vorkyt.github.io/images/blog-4.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://vorkyt.github.io/images/footer-logo-bg.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://vorkyt.github.io/about.html</loc>
+	<lastmod>2022-11-10T20:30:40+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://vorkyt.github.io/images/about.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://vorkyt.github.io/services.html</loc>
+	<lastmod>2022-11-10T20:30:40+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://vorkyt.github.io/images/Web-Design.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://vorkyt.github.io/images/psd-to-html.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://vorkyt.github.io/products.html</loc>
+	<lastmod>2022-11-10T20:30:40+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://vorkyt.github.io/rates.html</loc>
+	<lastmod>2022-11-10T20:30:40+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://vorkyt.github.io/blog-page.html</loc>
+	<lastmod>2022-11-10T20:30:40+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://vorkyt.github.io/gallery.html</loc>
+	<lastmod>2022-11-10T20:30:40+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://vorkyt.github.io/blog_single.html</loc>
+	<lastmod>2022-11-10T20:30:40+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>
