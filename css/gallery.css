@@ -3,7 +3,10 @@
   
   margin-bottom:5vw;
 }
+header{
 
+  margin-bottom:5em;
+}
 
 .full {
 
@@ -35,7 +38,8 @@
   transform: scale(0.2) !important;
 }
 .gallery {
-  display: grid;
+/*   display: grid; */
+    margin-top:5em;
   grid-column-gap: 8px;
   grid-row-gap: 8px;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
