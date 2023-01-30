@@ -9,6 +9,7 @@ header{
 }
 
 .full {
+  display: grid;
 
   left: 0;
   top: 0;
